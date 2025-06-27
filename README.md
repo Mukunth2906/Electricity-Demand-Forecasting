@@ -17,6 +17,24 @@ Welcome to my very first hands-on project in **Machine Learning**! This beginner
 
 ---
 
+## 📌 Project Objective
+
+The goal of this project is to leverage **machine learning** techniques on natural data to uncover trends, patterns, or predictions that can support governance, infrastructure planning, or social development initiatives in Delhi.
+
+---
+
+## 📂 Project Workflow
+
+1. **📥 Data Collection** – Sourced from authentic, natural datasets relevant to Delhi.  
+2. **🔍 Data Exploration** – Identifying key attributes, correlations, and visual patterns.  
+3. **🧼 Data Preprocessing** – Cleaning, encoding, and normalizing the data.  
+4. **🧠 Model Building** – Applying classification/regression models using Scikit-learn.  
+5. **📊 Evaluation** – Accuracy, precision, recall, and other metrics for model performance.  
+6. **📈 Interpretation** – Translating predictions into meaningful recommendations.
+
+---
+
+
 ## 🛠️ Technologies Used
 
 | Tool/Library | Purpose                     |
