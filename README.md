@@ -55,12 +55,7 @@ The goal of this project is to leverage **machine learning** techniques on natur
 
 ---
 
-## 📸 Preview
 
-> *(Insert screenshots or outputs if available)*  
-Example: Data visualization, accuracy scores, prediction samples.
-
----
 
 ## 🙋 About Me
 
